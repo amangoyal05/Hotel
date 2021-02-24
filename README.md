@@ -1,2 +1,2 @@
 # Hotel
-Hotel project using HTML-CSS &amp; JavaScript
+Front-end aplikacije za rezervisanje smeštaja.
